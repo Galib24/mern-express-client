@@ -12,7 +12,7 @@
         "_id": "642c155b2c4774f05c36eeab",
         "name": "Laptop Y",
         "description": "A high-performance laptop for gaming and work.",
-        "image": "laptop_y.jpg",
+        "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2532&q=80",
         "price": 1499,
         "review": 4.8,
         "category": "computerGadget"
@@ -30,7 +30,7 @@
         "_id": "642c155b2c4774f05c36eead",
         "name": "Smart Speaker A",
         "description": "A voice-controlled smart speaker with built-in assistant.",
-        "image": "speaker_a.jpg",
+        "image": "https://images.unsplash.com/photo-1545454675-3531b543be5d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
         "price": 149,
         "review": 4.6,
         "category": "computerGadget"
@@ -57,7 +57,7 @@
         "_id": "642c155b2c4774f05c36eeb0",
         "name": "Gaming Console D",
         "description": "Experience the next level of gaming with this powerful console.",
-        "image": "console_d.jpg",
+        "image": "https://images.unsplash.com/photo-1605901309584-818e25960a8f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2519&q=80",
         "price": 399,
         "review": 4.9,
         "category": "normalGadget"
@@ -66,7 +66,7 @@
         "_id": "642c155b2c4774f05c36eeb1",
         "name": "Headphones E",
         "description": "Immerse yourself in your favorite music with these premium headphones.",
-        "image": "headphones_e.jpg",
+        "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2065&q=80",
         "price": 149,
         "review": 4.2,
         "category": "SmartGadget"
@@ -75,7 +75,7 @@
         "_id": "642c155b2c4774f05c36eeb2",
         "name": "Tablet F",
         "description": "A versatile tablet for work and entertainment.",
-        "image": "tablet_f.jpg",
+        "image": "https://media.istockphoto.com/id/1175197225/photo/diverse-team-of-government-intelligence-agents-standing-around-digital-touch-screen-table-and.jpg?s=2048x2048&w=is&k=20&c=LPw6t5dQ0KxKsaOGKZPnhagymwUxa8SZgW1dzPAijbo=",
         "price": 499,
         "review": 4.5,
         "category": "SmartGadget"
@@ -93,7 +93,7 @@
         "_id": "642c155b2c4774f05c36eeb4",
         "name": "Fitness Tracker H",
         "description": "Monitor your fitness goals with this sleek fitness tracker.",
-        "image": "tracker_h.jpg",
+        "image": "https://media.istockphoto.com/id/1344570156/photo/smartphone-and-fitness-tracker.jpg?s=2048x2048&w=is&k=20&c=9MgOTjH7A0sLOIgYK-d5bpKgmA__1iXaDLsjr1uc66M=",
         "price": 79,
         "review": 4.4,
         "category": "SmartGadget"
@@ -102,7 +102,7 @@
         "_id": "642c155b2c4774f05c36eeb5",
         "name": "Bluetooth Speaker I",
         "description": "Enjoy your favorite music on the go with this portable Bluetooth speaker.",
-        "image": "speaker_i.jpg",
+        "image": "https://media.istockphoto.com/id/1287569502/photo/a-picture-of-blutooth-speaker.jpg?s=2048x2048&w=is&k=20&c=04YyNfERINIhHgkMORxF0uQnqECjwiIyGul-ZqeuGZI=",
         "price": 79,
         "review": 4.3,
         "category": "normalGadget"
@@ -111,7 +111,7 @@
         "_id": "642c155b2c4774f05c36eeb6",
         "name": "Camera Lens J",
         "description": "Enhance your photography skills with this high-quality camera lens.",
-        "image": "lens_j.jpg",
+        "image": "https://images.unsplash.com/photo-1616269995799-a7fdabfb24c1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
         "price": 299,
         "review": 4.7,
         "category": "normalGadget"
@@ -138,7 +138,7 @@
         "_id": "642c155b2c4774f05c36eeb9",
         "name": "Drone M",
         "description": "Capture stunning aerial footage with this high-performance drone.",
-        "image": "drone_m.jpg",
+        "image": "https://images.unsplash.com/photo-1527977966376-1c8408f9f108?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1480&q=80",
         "price": 499,
         "review": 4.9,
         "category": "normalGadget"
@@ -147,7 +147,7 @@
         "_id": "642c155b2c4774f05c36eeba",
         "name": "Smart Home Hub N",
         "description": "Control your smart devices with this centralized smart home hub.",
-        "image": "hub_n.jpg",
+        "image": "https://media.istockphoto.com/id/1214098172/photo/smart-home-hub-for-home-automation-on-wooden-desktop-with-copyspace.jpg?s=2048x2048&w=is&k=20&c=GXHapgaUhVErvIYH2q7luc9GfiZNSR1qKzTCy8w_Ye4=",
         "price": 149,
         "review": 4.3,
         "category": "normalGadget"
@@ -156,7 +156,7 @@
         "_id": "642c155b2c4774f05c36eebb",
         "name": "Portable Hard Drive O",
         "description": "Store and backup your important files with this portable hard drive.",
-        "image": "drive_o.jpg",
+        "image": "https://media.istockphoto.com/id/1142874917/photo/external-hard-drive-connect-to-laptop-computer-transfer-or-backup-data-between-laptop-and.jpg?s=2048x2048&w=is&k=20&c=jksr2ukhDZwabGUaGa39k7_oSrhTVlswOL9gTVypY3M=",
         "price": 129,
         "review": 4.4,
         "category": "computerGadget"
@@ -165,7 +165,7 @@
         "_id": "642c155b2c4774f05c36eebc",
         "name": "Gaming Keyboard P",
         "description": "Dominate your gaming sessions with this responsive gaming keyboard.",
-        "image": "keyboard_p.jpg",
+        "image": "https://media.istockphoto.com/id/1170073824/photo/gamer-work-space-concept-top-view-a-gaming-gear-mouse-keyboard-joystick-headset-mobile.jpg?s=2048x2048&w=is&k=20&c=5ReZtDpPqKr8aClPvFdeNTy6xQw-4MY4pYGX1d4_YN4=",
         "price": 149,
         "review": 4.7,
         "category": "computerGadget"
@@ -174,7 +174,7 @@
         "_id": "642c155b2c4774f05c36eebd",
         "name": "Wireless Charger Q",
         "description": "Charge your compatible devices wirelessly with this convenient charger.",
-        "image": "charger_q.jpg",
+        "image": "https://media.istockphoto.com/id/1028116790/photo/close-up-phone-charging-on-wireless-charger-device.jpg?s=2048x2048&w=is&k=20&c=i9JfK7h7K7wLlIjFfApS4NMTlYP7BuV_JtMpbwf7fyw=",
         "price": 59,
         "review": 4.2,
         "category": "normalGadget"
@@ -183,7 +183,7 @@
         "_id": "642c155b2c4774f05c36eebe",
         "name": "Smart Thermostat R",
         "description": "Control your home's temperature with this smart and energy-efficient thermostat.",
-        "image": "thermostat_r.jpg",
+        "image": "https://media.istockphoto.com/id/1311272301/photo/smart-home-living-room.jpg?s=2048x2048&w=is&k=20&c=sSmUc1HnVfu7y_UHM-kI4uSGmH_Ita6m6WLVEBYnQ5M=",
         "price": 199,
         "review": 4.5,
         "category": "SmartGadget"
