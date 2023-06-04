@@ -5,8 +5,9 @@ const NavBar = () => {
     const navOptions = <>
 
         <li><Link to='/'>Home</Link></li>
-        <li><Link to='/products'>Our Products</Link></li>
-        <li><a>Item 3</a></li>
+        <li><Link to='/products'>Products</Link></li>
+        <li><Link to='/order'>Order Products</Link></li>
+
 
 
 
@@ -23,8 +24,8 @@ const NavBar = () => {
                             {navOptions}
                         </ul>
                     </div>
-                   
-                   <span className="btn btn-ghost normal-case text-xl"> <Link to='/'>Mern Express</Link> </span>
+
+                    <span className="btn btn-ghost normal-case text-xl"> <Link to='/'>Mern Express</Link> </span>
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul tabIndex={0} className="menu menu-horizontal px-1">

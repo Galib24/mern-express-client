@@ -2,6 +2,7 @@ import React from 'react';
 import { Helmet } from 'react-helmet-async';
 import Cover from '../../../Shared/Cover/Cover';
 import menuImg from '../../../../assets/woman-choosing-earphones-store_1303-31280.png'
+import popularImg from '../../../../assets/popularimgup.png'
 import offerImg from '../../../../assets/offer.jpg'
 import computerGadgetImg from '../../../../assets/computergadget.png'
 import smartGadgetImg from '../../../../assets/smart.png'
@@ -28,10 +29,10 @@ const Menu = () => {
             <Cover img={menuImg} title={'our products'}></Cover>
             <SectionTitle subHeading='Do not Miss Best Products' heading='Offer is running!!'></SectionTitle>
             {/* offer product */}
-            <ProductCategory items={offer} title='Offer Products'></ProductCategory>
+            <ProductCategory items={offer} title='Offer Products' img={offerImg}></ProductCategory>
 
             {/* popular product*/}
-            <ProductCategory items={popular} title='Popular Item' img={offerImg}></ProductCategory>
+            <ProductCategory items={popular} title='Popular Item' img={popularImg}></ProductCategory>
 
             {/* computerGadget product*/}
             <ProductCategory items={computerGadget} title='Computer Gadget' img={computerGadgetImg}></ProductCategory>
