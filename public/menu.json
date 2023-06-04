@@ -1,0 +1,200 @@
+[
+    {
+        "_id": "642c155b2c4774f05c36eeaa",
+        "name": "Smartphone X",
+        "description": "A powerful and feature-rich smartphone.",
+        "image": "smartphone_x.jpg",
+        "price": 999,
+        "review": 4.5,
+        "category": "offer"
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeab",
+        "name": "Laptop Y",
+        "description": "A high-performance laptop for gaming and work.",
+        "image": "laptop_y.jpg",
+        "price": 1499,
+        "review": 4.8,
+        "category": "computerGadget"
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeac",
+        "name": "Wireless Earbuds Z",
+        "description": "Premium wireless earbuds with noise cancellation.",
+        "image": "earbuds_z.jpg",
+        "price": 199,
+        "review": 4.3,
+        "category": "offer"
+    },
+    {
+        "_id": "642c155b2c4774f05c36eead",
+        "name": "Smart Speaker A",
+        "description": "A voice-controlled smart speaker with built-in assistant.",
+        "image": "speaker_a.jpg",
+        "price": 149,
+        "review": 4.6,
+        "category": "computerGadget"
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeae",
+        "name": "Action Camera B",
+        "description": "Capture your adventures with this durable action camera.",
+        "image": "https://i.ibb.co/q7d4PGK/popular1up.png",
+        "price": 299,
+        "review": 4.4,
+        "category": "popular"
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeaf",
+        "name": "Smartwatch C",
+        "description": "Stay connected with this stylish and feature-packed smartwatch.",
+        "image": "https://i.ibb.co/kKS7DgT/popular2up.png",
+        "price": 199,
+        "review": 4.7,
+        "category": "popular"
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb0",
+        "name": "Gaming Console D",
+        "description": "Experience the next level of gaming with this powerful console.",
+        "image": "console_d.jpg",
+        "price": 399,
+        "review": 4.9,
+        "category": "normalGadget"
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb1",
+        "name": "Headphones E",
+        "description": "Immerse yourself in your favorite music with these premium headphones.",
+        "image": "headphones_e.jpg",
+        "price": 149,
+        "review": 4.2,
+        "category": "SmartGadget"
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb2",
+        "name": "Tablet F",
+        "description": "A versatile tablet for work and entertainment.",
+        "image": "tablet_f.jpg",
+        "price": 499,
+        "review": 4.5,
+        "category": "SmartGadget"
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb3",
+        "name": "Wireless Mouse G",
+        "description": "A comfortable and responsive wireless mouse for your computer.",
+        "image": "mouse_g.jpg",
+        "price": 49,
+        "review": 4.1,
+        "category": "offer"
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb4",
+        "name": "Fitness Tracker H",
+        "description": "Monitor your fitness goals with this sleek fitness tracker.",
+        "image": "tracker_h.jpg",
+        "price": 79,
+        "review": 4.4,
+        "category": "SmartGadget"
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb5",
+        "name": "Bluetooth Speaker I",
+        "description": "Enjoy your favorite music on the go with this portable Bluetooth speaker.",
+        "image": "speaker_i.jpg",
+        "price": 79,
+        "review": 4.3,
+        "category": "normalGadget"
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb6",
+        "name": "Camera Lens J",
+        "description": "Enhance your photography skills with this high-quality camera lens.",
+        "image": "lens_j.jpg",
+        "price": 299,
+        "review": 4.7,
+        "category": "normalGadget"
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb7",
+        "name": "Wireless Keyboard K",
+        "description": "Type comfortably and wirelessly with this ergonomic keyboard.",
+        "image": "https://i.ibb.co/vhHsscc/popular3up.png",
+        "price": 89,
+        "review": 4.2,
+        "category": "popular"
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb8",
+        "name": "Virtual Reality Headset L",
+        "description": "Immerse yourself in virtual reality experiences with this advanced headset.",
+        "image": "https://i.ibb.co/8KN5h7T/popular-Vr.png",
+        "price": 299,
+        "review": 4.6,
+        "category": "popular"
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb9",
+        "name": "Drone M",
+        "description": "Capture stunning aerial footage with this high-performance drone.",
+        "image": "drone_m.jpg",
+        "price": 499,
+        "review": 4.9,
+        "category": "normalGadget"
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeba",
+        "name": "Smart Home Hub N",
+        "description": "Control your smart devices with this centralized smart home hub.",
+        "image": "hub_n.jpg",
+        "price": 149,
+        "review": 4.3,
+        "category": "normalGadget"
+    },
+    {
+        "_id": "642c155b2c4774f05c36eebb",
+        "name": "Portable Hard Drive O",
+        "description": "Store and backup your important files with this portable hard drive.",
+        "image": "drive_o.jpg",
+        "price": 129,
+        "review": 4.4,
+        "category": "computerGadget"
+    },
+    {
+        "_id": "642c155b2c4774f05c36eebc",
+        "name": "Gaming Keyboard P",
+        "description": "Dominate your gaming sessions with this responsive gaming keyboard.",
+        "image": "keyboard_p.jpg",
+        "price": 149,
+        "review": 4.7,
+        "category": "computerGadget"
+    },
+    {
+        "_id": "642c155b2c4774f05c36eebd",
+        "name": "Wireless Charger Q",
+        "description": "Charge your compatible devices wirelessly with this convenient charger.",
+        "image": "charger_q.jpg",
+        "price": 59,
+        "review": 4.2,
+        "category": "normalGadget"
+    },
+    {
+        "_id": "642c155b2c4774f05c36eebe",
+        "name": "Smart Thermostat R",
+        "description": "Control your home's temperature with this smart and energy-efficient thermostat.",
+        "image": "thermostat_r.jpg",
+        "price": 199,
+        "review": 4.5,
+        "category": "SmartGadget"
+    },
+    {
+        "_id": "642c155b2c4774f05c36eebf",
+        "name": "Bluetooth Earphones S",
+        "description": "Enjoy wireless audio with these sleek and comfortable Bluetooth earphones.",
+        "image": "earphones_s.jpg",
+        "price": 99,
+        "review": 4.6,
+        "category": "offer"
+    }
+]
