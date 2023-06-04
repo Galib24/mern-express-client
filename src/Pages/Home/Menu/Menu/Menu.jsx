@@ -26,7 +26,7 @@ const Menu = () => {
             </Helmet>
             {/* main cover */}
             <Cover img={menuImg} title={'our products'}></Cover>
-            <SectionTitle subHeading='Do not Miss Best Products' heading='Offer in running!!'></SectionTitle>
+            <SectionTitle subHeading='Do not Miss Best Products' heading='Offer is running!!'></SectionTitle>
             {/* offer product */}
             <ProductCategory items={offer} title='Offer Products'></ProductCategory>
 
