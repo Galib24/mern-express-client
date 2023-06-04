@@ -12,7 +12,7 @@ const Home = () => {
         <div>
             <Helmet>
                 <title>
-                    Mern Express || Home
+                    Mern Express ||Home
                 </title>
             </Helmet>
             <Banner></Banner>

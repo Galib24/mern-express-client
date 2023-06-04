@@ -3,7 +3,7 @@
         "_id": "642c155b2c4774f05c36eeaa",
         "name": "Smartphone X",
         "description": "A powerful and feature-rich smartphone.",
-        "image": "smartphone_x.jpg",
+        "image": "https://i.ibb.co/4NBY1RD/offer1up.png",
         "price": 999,
         "review": 4.5,
         "category": "offer"
@@ -21,7 +21,7 @@
         "_id": "642c155b2c4774f05c36eeac",
         "name": "Wireless Earbuds Z",
         "description": "Premium wireless earbuds with noise cancellation.",
-        "image": "earbuds_z.jpg",
+        "image": "https://i.ibb.co/VHQMVh4/offer2up.png",
         "price": 199,
         "review": 4.3,
         "category": "offer"
@@ -84,7 +84,7 @@
         "_id": "642c155b2c4774f05c36eeb3",
         "name": "Wireless Mouse G",
         "description": "A comfortable and responsive wireless mouse for your computer.",
-        "image": "mouse_g.jpg",
+        "image": "https://i.ibb.co/41KkmpC/offer3up.png",
         "price": 49,
         "review": 4.1,
         "category": "offer"
@@ -192,7 +192,7 @@
         "_id": "642c155b2c4774f05c36eebf",
         "name": "Bluetooth Earphones S",
         "description": "Enjoy wireless audio with these sleek and comfortable Bluetooth earphones.",
-        "image": "earphones_s.jpg",
+        "image": "https://i.ibb.co/BNj6kPD/offer4up.png",
         "price": 99,
         "review": 4.6,
         "category": "offer"
