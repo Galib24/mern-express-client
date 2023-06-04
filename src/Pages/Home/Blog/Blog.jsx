@@ -25,7 +25,7 @@ const Blog = () => {
                 <div className="card w-96 bg-base-100 shadow-xl">
                     <figure><img src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1480&q=80" alt="Shoes" /></figure>
                     <div className="card-body">
-                        <h2 className="card-title font-extrabold">Product Manager</h2>
+                        <h2 className="card-title font-extrabold">Marketing Officer</h2>
                         <p>Welcome to our web page, we are dedicated to creating impactful marketing campaigns that resonate with our audience. Through data-driven insights and innovative strategies, we aim to build lasting relationships and deliver an exceptional user experience. Explore our page and discover the difference we can make.</p>
                         <div className="card-actions justify-end">
                             <button className="btn btn-primary">View Details</button>
