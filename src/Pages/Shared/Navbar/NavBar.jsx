@@ -45,7 +45,11 @@ const NavBar = () => {
                 </div>
                 {
                     user ? <>
-                        <button onClick={handleLogOut} className="btn btn-ghost btn-sm">Log Out</button>
+                        <div className="flex gap-3">
+                            <span>{user?.displayName}</span>
+                            <img className="w-[40px] rounded-full ml-2" src={user?.photoURL} alt="" />
+                            <button onClick={handleLogOut} className="btn btn-ghost btn-sm">Log Out</button>
+                        </div>
                     </> : <>
                         <li><Link to='/login'>Login</Link></li>
                     </>
