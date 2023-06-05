@@ -29,19 +29,19 @@ const Menu = () => {
             <Cover img={menuImg} title={'our products'}></Cover>
             <SectionTitle subHeading='Do not Miss Best Products' heading='Offer is running!!'></SectionTitle>
             {/* offer product */}
-            <ProductCategory items={offer} title='Offer Products' img={offerImg}></ProductCategory>
+            <ProductCategory items={offer} title='Offer' img={offerImg}></ProductCategory>
 
             {/* popular product*/}
-            <ProductCategory items={popular} title='Popular Item' img={popularImg}></ProductCategory>
+            <ProductCategory items={popular} title='popular' img={popularImg}></ProductCategory>
 
             {/* computerGadget product*/}
-            <ProductCategory items={computerGadget} title='Computer Gadget' img={computerGadgetImg}></ProductCategory>
+            <ProductCategory items={computerGadget} title='computerGadget' img={computerGadgetImg}></ProductCategory>
 
             {/* SmartGadget product*/}
-            <ProductCategory items={SmartGadget} title='Smart Gadget' img={smartGadgetImg}></ProductCategory>
+            <ProductCategory items={SmartGadget} title='SmartGadget' img={smartGadgetImg}></ProductCategory>
 
             {/* normalGadget product*/}
-            <ProductCategory items={normalGadget} title='Normal Gadget' img={normalGadgetImg}></ProductCategory>
+            <ProductCategory items={normalGadget} title='normalGadget' img={normalGadgetImg}></ProductCategory>
         </div>
     );
 };
