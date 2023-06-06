@@ -27,7 +27,9 @@ export default {
 
           "error": "#F62369",
 
-          "gray": "#A0A0A0"
+          "gray": "#A0A0A0",
+          
+          "orange": "#ffa500"
         },
       },
     ],
