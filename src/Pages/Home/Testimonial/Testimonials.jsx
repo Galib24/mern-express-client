@@ -12,7 +12,7 @@ const Testimonials = () => {
     const [reviews, setReviews] = useState([])
 
     useEffect(() => {
-        fetch('http://localhost:5000/review')
+        fetch('https://mern-express-server.vercel.app/review')
             .then(res => res.json())
             .then(data => setReviews(data))
     }, [])
@@ -36,7 +36,7 @@ const Testimonials = () => {
                                 value={review.rating}
                                 readOnly
                             />
-                            <img style={{borderRadius: '50px 50px 50px 50px', width: '120px'}} src={review.img} alt="" />
+                            <img style={{ borderRadius: '50px 50px 50px 50px', width: '120px' }} src={review.img} alt="" />
                             <h3 className="text-2xl text-green-500 py-8">{review.name}</h3>
                             <p>{review.details}</p>
                         </div>
